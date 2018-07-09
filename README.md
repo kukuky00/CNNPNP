@@ -1,0 +1,2 @@
+# CNNPNP
+The invention discloses a nucleosome classification prediction method based on convolutional neural network, which comprises the following steps: 1) feature extraction; 2) extraction of physicochemical properties of nucleotides in nucleosome or linker DNA sequence 3) Add biological characteristics; 4) Obtain 24th dimensional vector; 5) Add nucleotide chemistry; 6) Obtain a matrix containing biological information; 7) Construct a convolutional neural network structure; 8) Classify nucleosomes The method can accurately predict the classification of nucleosomes.
