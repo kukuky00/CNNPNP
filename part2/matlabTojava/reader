@@ -1,0 +1,3 @@
+Github allows uploading ('.myelipse', '.settings') folders, .classpath', '.project' files in web projects
+
+Built another web project and try to combine 'src'and 'WebRoot' in it
